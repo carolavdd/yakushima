@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://carolavdd.github.io/yakushima/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in carolavdd/yakushima project"
+        ]
+    },
+    "items": []
+}
